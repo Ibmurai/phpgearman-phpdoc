@@ -145,7 +145,7 @@ class GearmanClient {
 	 * Creates a GearmanClient instance representing a client that connects to the job server and submits tasks to complete.
 	 *
 	 * @link http://www.php.net/manual/en/gearmanclient.construct.php
- 	 * @return  A GearmanClient object.
+ 	 * @return GearmanClient A GearmanClient object.
 	 */
 	public function __construct() {}
 

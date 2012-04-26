@@ -16,7 +16,7 @@ class GearmanTask {
 	 * Creates a GearmanTask instance representing a task to be submitted to a job server.
 	 *
 	 * @link http://www.php.net/manual/en/gearmantask.construct.php
- 	 * @return  A GearmanTask object.
+ 	 * @return GearmanTask A GearmanTask object.
 	 */
 	public function __construct() {}
 

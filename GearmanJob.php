@@ -26,7 +26,7 @@ class GearmanJob {
 	 * Creates a GearmanJob instance representing a job the worker is to complete.
 	 *
 	 * @link http://www.php.net/manual/en/gearmanjob.construct.php
- 	 * @return  A GearmanJob object.
+ 	 * @return GearmanJob A GearmanJob object.
 	 */
 	public function __construct() {}
 

@@ -60,7 +60,7 @@ class GearmanWorker {
 	 * Creates a GearmanWorker instance representing a worker that connects to the job server and accepts tasks to run.
 	 *
 	 * @link http://www.php.net/manual/en/gearmanworker.construct.php
- 	 * @return  A GearmanWorker object
+ 	 * @return GearmanWorker A GearmanWorker object
 	 */
 	public function __construct() {}
 
