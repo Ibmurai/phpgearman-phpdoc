@@ -3,6 +3,7 @@
  * GearmanTask class skeleton, for IDE auto completion.
  *
  * @author Jens Riisom Schultz <ibber_of_crew42@hotmail.com>
+ * @package Gearman
  */
 /**
  *

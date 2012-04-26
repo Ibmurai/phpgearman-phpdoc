@@ -3,6 +3,7 @@
  * GearmanClient class skeleton, for IDE auto completion.
  *
  * @author Jens Riisom Schultz <ibber_of_crew42@hotmail.com>
+ * @package Gearman
  */
 /**
  * Represents a class for connecting to a Gearman job server and making requests to perform some function on provided data. The function performed must be one registered by a Gearman worker and the data passed is opaque to the job server.
