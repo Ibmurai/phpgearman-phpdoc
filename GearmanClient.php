@@ -40,7 +40,7 @@ class GearmanClient {
  	 * @param string $servers A comma-separated list of servers, each server specified in the format &#039;host:port&#039;.
 	 * @return bool Returns TRUE on success or FALSE on failure.
 	 */
-	public function addServers($servers) {}
+	public function addServers($servers = '127.0.0.1:4730') {}
 
 	/**
 	 * (PECL gearman >= 0.5.0)

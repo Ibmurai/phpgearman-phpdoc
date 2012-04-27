@@ -53,7 +53,7 @@ class GearmanWorker {
  	 * @param string $servers A comma separated list of job servers in the format host:port. If no port is specified, it defaults to 4730.
 	 * @return bool Returns TRUE on success or FALSE on failure.
 	 */
-	public function addServers($servers) {}
+	public function addServers($servers = '127.0.0.1:4730') {}
 
 	/**
 	 * (PECL gearman >= 0.5.0)
