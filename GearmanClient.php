@@ -30,7 +30,7 @@ class GearmanClient {
 	 * @param int $port The job server port.
 	 * @return bool Returns TRUE on success or FALSE on failure.
 	 */
-	public function addServer($host, $port = null) {}
+	public function addServer($host = '127.0.0.1', $port = 4730) {}
 
 	/**
 	 * (PECL gearman >= 0.5.0)
